@@ -1,0 +1,21 @@
+OmEntry {
+	#tags : {
+		#author : 'MelkiYasser',
+		#time : DateAndTime [ '2024-02-08T09:54:28.505975+01:00' ],
+		#prior : OmReference [ 'Pharo11-SNAPSHOT-64bit-cfca02c.33EA2DB816B8', '123' ],
+		#self : OmReference [ '1' ]
+	},
+	#content : EpSessionSnapshot {
+		#imageName : '/Users/yassermelki/Desktop/1/Pharo 11.0 - 64bit (stable) - mine.1.image'
+	}
+}OmEntry {
+	#tags : {
+		#author : 'MelkiYasser',
+		#time : DateAndTime [ '2024-02-08T14:39:45.72845+01:00' ],
+		#prior : OmReference [ '1' ],
+		#self : OmReference [ '2' ]
+	},
+	#content : EpSessionSnapshot {
+		#imageName : '/Users/yassermelki/Desktop/1/Pharo 11.0 - 64bit (stable) - mine.1.image'
+	}
+}
